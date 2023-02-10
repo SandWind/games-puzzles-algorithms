@@ -261,3 +261,6 @@ while len(legal)>0:
   legal = legal_moves(board, B.r, B.c)
   t += 1
   print('         ', t, ' moves so far')
+
+def work():
+  pass
